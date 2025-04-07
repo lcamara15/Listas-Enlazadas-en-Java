@@ -32,6 +32,7 @@ Es la clase principal que inicia el programa. Presenta un menú que guía al usu
 # Ingreso manual:
 
 # Entrada:
+
 Opción 1 → valor: 3
 Opción 2 → valor: 0
 Opción 3 → valor: 4 → Posición: 2
